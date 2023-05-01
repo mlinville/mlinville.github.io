@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /arduino/arduino-ide-themes
+---
+
 # Arduino IDE Themes
 
 ## How to change your Arduino IDE theme
