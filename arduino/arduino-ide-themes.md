@@ -39,7 +39,7 @@ On Linux and Mac:
 
 ``~/.arduinoIDE/``
 
-By default this folder may be hidden on your system. If that is the case, you will need to follow the appropriate steps to make it visible and a quick Google search will turn up the instructions.
+By default this folder may be hidden on your system. If that is the case, you will need to follow the appropriate steps to make it visible: [Windows](https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5) / [Linux](https://www.geeksforgeeks.org/how-to-view-and-create-hidden-files-in-linux/) / [Mac](https://www.macworld.com/article/671158/how-to-show-hidden-files-on-a-mac.html).
 
 3. Once you have located the folder, inside it create a new subfolder named "plugins". Inside this plugins folder is where you can place your .vsix files to have them recognized by Arduino IDE. 
 
