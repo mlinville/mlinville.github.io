@@ -1,7 +1,8 @@
 ---
-layout: archive
-title: "Home"
+layout: page
 permalink: /
 ---
 
-New Github pages site
+## Arduino
+
+* [Arduino IDE Themes](/arduino/arduino-ide-themes)
